@@ -49,6 +49,7 @@
         '@': path.resolve(__dirname, './src'),
       },
     },
+    base: '/FigmaMakeTest2/',
     build: {
       target: 'esnext',
       outDir: 'build',
